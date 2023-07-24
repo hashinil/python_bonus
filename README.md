@@ -32,6 +32,8 @@ Day 14 - Import files
 
 Day 15 - JSON
 
+![image](https://github.com/hashinil/python_bonus/assets/33922245/2cdcd8e9-2f0c-4adc-a39f-87208cced71a)
+
 ![image](https://github.com/hashinil/python_bonus/assets/33922245/6bab915b-3b1f-40e1-9438-a1de560d9a4e)
 
 
