@@ -1,5 +1,6 @@
 # python_bonus
 Day 1 - Length
+
 ![image](https://github.com/hashinil/python_bonus/assets/33922245/fe50b8a0-941a-4c3d-a602-89b0997d23c6)
 
 Day 2 - while loop
