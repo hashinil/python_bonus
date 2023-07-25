@@ -45,3 +45,9 @@ Day 18 - File extractor
 
 ![image](https://github.com/hashinil/python_bonus/assets/33922245/f263bdd9-cd7b-424b-8e4f-1623c2caedb8)
 
+Day 19 - Streamlit 
+
+- conver camera image to gray Scale
+- conver upload image to gray Scale
+
+
